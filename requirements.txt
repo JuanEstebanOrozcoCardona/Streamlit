@@ -38,6 +38,9 @@ smmap==5.0.3
 streamlit==1.55.0
 tenacity==9.1.4
 toml==0.10.2
+deepface==0.0.99
+opencv-python==4.13.0.92
+scikit-learn==1.8.0
 tornado==6.5.5
 typing_extensions==4.15.0
 tzdata==2025.3
